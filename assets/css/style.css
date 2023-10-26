@@ -638,7 +638,7 @@ a.theme-btn:hover i {
     color: var(--heading-color);
 }
 
-.lets-chat button {
+.lets-chat a {
     height: 34px;
     width: 34px;
     background: white;
