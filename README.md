@@ -1,121 +1,94 @@
 
 <div align="center">
 
-<!-- CUSTOM EDITORIAL COVER -->
-<img src="./assets/readme-cover.png" width="100%" alt="Rekha — Digital Craft" />
+  <img src="./assets/readme-cover.png" width="100%" alt="Rekha — Digital Craft" />
 
-<br/><br/>
+  <h2>Somewhere between code & curiosity.</h2>
 
-### Somewhere between code & curiosity.
+  <p><i>Part builder, part thinker, always curious.</i></p>
 
-*Part builder, part thinker, always curious.*
+  <p>
+    I explore the space between <b>technology, design, and human experiences</b> —
+    turning ideas into things people can use and enjoy.
+  </p>
 
-<br/>
+  <p>
+    Drawn to the little details, unexpected possibilities,<br>
+    and the process of making something from nothing.
+  </p>
 
-I explore the space between **technology, design, and human experiences** —  
-turning ideas into things people can use and enjoy.
-
-Drawn to the little details, unexpected possibilities,  
-and the process of making something from nothing.
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=3500&pause=1200&color=C5B69A&center=true&vCenter=true&width=450&lines=Building+with+intention.;Designing+with+curiosity.;Always+exploring%2C+always+becoming." alt="Creative philosophy" />
+  <p>✦ &nbsp; BUILD WITH INTENTION &nbsp; ✦</p>
 
 </div>
 
-<br/>
+<br>
+
+---
+
+<div align="center">
+  <sub>01 / SELECTED WORK</sub>
+  <h3>Things I've been creating.</h3>
+  <p><i>Quietly building, constantly exploring.</i></p>
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✦ Seiya</h3>
+      <p><b>Personal & Family Finance</b></p>
+      <p>
+        A thoughtful approach to managing money,
+        shared goals, and everyday financial life.
+      </p>
+      <p><code>Digital Product</code> <code>In Development</code></p>
+      <sub>PRIVATE SOURCE</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✧ Creative Experiments</h3>
+      <p><b>Design, Code & Curiosity</b></p>
+      <p>
+        A collection of explorations across interfaces,
+        engineering, and digital experiences.
+      </p>
+      <p><code>Creative Coding</code> <code>Exploration</code></p>
+      <a href="https://github.com/rekhadyah?tab=repositories">Explore GitHub</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+  <sub>02 / A LITTLE PHILOSOPHY</sub>
+
+  <h3>
+    <i>Not everything needs to be louder.</i><br>
+    <i>Some things just need to be better.</i>
+  </h3>
+
+  <sub>LESS NOISE. MORE INTENTION.</sub>
+</div>
+
+<br>
 
 ---
 
 <div align="center">
 
-<sub>01 / THE PHILOSOPHY</sub>
+  <sub>03 / SAY HELLO</sub>
 
-<br/><br/>
+  <p>
+    <a href="https://rekhadyah.github.io/">Portfolio</a>
+    &nbsp; / &nbsp;
+    <a href="mailto:rekhadyahmaharani@gmail.com">Email</a>
+    &nbsp; / &nbsp;
+    <a href="https://github.com/rekhadyah">GitHub</a>
+  </p>
 
-### *Not everything needs to be louder.*
-### *Some things just need to be better.*
-
-<sub>LESS NOISE. MORE INTENTION.</sub>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<sub>02 / THE WORK</sub>
-
-<br/>
-
-### Selected repositories
-
-*A collection of things I've built, explored, and learned along the way.*
-
-</div>
-
-<br/>
-
-<!-- REPLACE THE REPO NAMES WITH YOUR OWN -->
-
-<div align="center">
-
-<a href="https://github.com/rekhadyah?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rekhadyah&repo=REPO_NAME_1&theme=dark&bg_color=101114&title_color=C5B69A&text_color=C9C9C9&icon_color=C5B69A&border_color=373737" width="48%" />
-</a>
-<a href="https://github.com/rekhadyah?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rekhadyah&repo=REPO_NAME_2&theme=dark&bg_color=101114&title_color=C5B69A&text_color=C9C9C9&icon_color=C5B69A&border_color=373737" width="48%" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/rekhadyah?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-101114?style=for-the-badge&logo=github&logoColor=C5B69A" alt="Explore repositories" />
-</a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<sub>03 / THE ACTIVITY</sub>
-
-<br/>
-
-### A little bit of my GitHub universe.
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rekhadyah&bg_color=101114&color=C5B69A&line=C5B69A&point=F1EEE8&area=true&area_color=4A4035&hide_border=true&custom_title=Contribution%20Journey" width="100%" alt="GitHub activity graph" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<sub>04 / STAY CONNECTED</sub>
-
-<br/><br/>
-
-<a href="https://rekhadyah.github.io/">Portfolio</a>
-&nbsp;&nbsp; / &nbsp;&nbsp;
-<a href="mailto:rekhadyahmaharani@gmail.com">Email</a>
-&nbsp;&nbsp; / &nbsp;&nbsp;
-<a href="https://github.com/rekhadyah">GitHub</a>
-
-<br/><br/><br/>
-
-<sub>✦ MADE WITH INTENTION ✦</sub>
-
-<br/>
-
-<sub>Always exploring. Always becoming.</sub>
+  <p>✦</p>
+  <sub>MADE WITH INTENTION.</sub>
+  <p><sub>Always exploring. Always becoming.</sub></p>
 
 </div>
