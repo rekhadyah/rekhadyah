@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="./assets/readme-cover.png" width="100%" alt="Rekha Dyah — Full-Stack Software Engineer" />
@@ -29,9 +28,9 @@ My work includes e-commerce platforms, SaaS applications, payment systems, AI-po
 
 | Area | Technologies & Experience |
 |:--|:--|
-| **Backend Development** | PHP, Laravel, REST API, Livewire |
-| **Frontend Development** | JavaScript, TypeScript, Next.js, Tailwind CSS, Alpine.js |
-| **Database** | MySQL, Relational Database Design |
+| **Backend Development** | PHP, Laravel, Next.js, REST API, Livewire |
+| **Frontend Development** | JavaScript, TypeScript, React, Next.js, Tailwind CSS, Alpine.js |
+| **Database & ORM** | MySQL, PostgreSQL, Prisma ORM, Relational Database Design |
 | **AI Integration** | Claude AI API, Prompt Engineering, AI-Powered Applications |
 | **Payment & Services** | Midtrans, Firebase, Payment Gateway Integration |
 | **Software Architecture** | SaaS, Multi-Tenancy, System Design, API Integration |
@@ -43,6 +42,27 @@ My work includes e-commerce platforms, SaaS applications, payment systems, AI-po
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+<h3>📦 StockFlow</h3>
+
+<strong>Production Material & Inventory Management</strong>
+
+<p>
+Centralized inventory and material management system built for shipbuilding and industrial manufacturing operations.
+</p>
+
+<ul>
+<li>Next.js, TypeScript, Prisma & PostgreSQL</li>
+<li>Multi-warehouse & batch location tracking</li>
+<li>Auditable stock movement ledger</li>
+<li>Purchase order & supplier receiving flow</li>
+<li>AI-powered receipt processing</li>
+</ul>
+
+<a href="https://inventory-kapal.vercel.app/">Visit Website</a>
+
+</td>
 <td width="50%" valign="top">
 
 <h3>💻 Trexa.id</h3>
@@ -64,6 +84,8 @@ Full-stack platform for Expert Advisor products and custom trading automation se
 <a href="https://trexa.id">Visit Website</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <h3>🛒 Figure Factories</h3>
@@ -85,8 +107,6 @@ E-commerce application for ordering custom physical figurines based on Roblox ch
 <a href="https://figurefactories.com">Visit Website</a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <h3>🤖 Pandu AI</h3>
@@ -108,7 +128,9 @@ Trading analytics platform integrating MetaTrader data with Claude AI for market
 <a href="https://pandu.trexa.id">Visit Website</a>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 <h3>⚙️ Nuvio Studio</h3>
 
