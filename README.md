@@ -1,58 +1,121 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:007A78,100:0d1117&height=150&section=header&text=REKHA%20DYAH%20MAHARANI&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=FULL-STACK%20ENGINEER%20•%20AI%20INTEGRATIONS%20•%20SYSTEM%20ARCHITECT&descSize=12&descColor=A5D6A7" width="100%"/>
-</p>
 
-<p align="center">
-  <a href="https://rekhadyah.github.io/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio_Website-007A78?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:rekhadyahmaharani@gmail.com"><img src="https://img.shields.io/badge/✉️_Direct_Email-161b22?style=for-the-badge&logo=gmail&logoColor=white&color=21262d" /></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<div align="center">
 
----
+<!-- CUSTOM EDITORIAL COVER -->
+<img src="./assets/readme-cover.png" width="100%" alt="Rekha — Digital Craft" />
 
-> **System Status:** 🟢 *Operational & Scaling*  
-> Building high-performance web applications, robust backend ecosystems using **Laravel**, and intelligent automation via LLM APIs.
+<br/><br/>
 
----
+### Somewhere between code & curiosity.
 
-### 🧠 Core Architecture & Technology Stack
+*Part builder, part thinker, always curious.*
 
-| Domain | Tech Ecosystem |
-| :--- | :--- |
-| **Backend & APIs** | `Laravel (PHP)` • `RESTful APIs` • `MySQL` • `MariaDB` |
-| **Frontend & UI/UX** | `Next.js` • `React` • `Tailwind CSS` • `Livewire` • `Alpine.js` |
-| **Mobile Systems** | `React Native` • `Expo` • `TypeScript` |
-| **Dev Environment** | `macOS` • `Laravel Herd` • `Git` • `Cloudflare Tunnels` |
+<br/>
 
----
+I explore the space between **technology, design, and human experiences** —  
+turning ideas into things people can use and enjoy.
 
-### 🚀 Production Systems & Featured Projects
+Drawn to the little details, unexpected possibilities,  
+and the process of making something from nothing.
 
-- **[Trexa.id](https://trexa.id/)**
-  * **Role:** Full Stack Developer
-  * **Stack:** Laravel, Filament, Claude AI API, MetaTrader REST API
-  * **Overview:** Architected an e-commerce platform for Expert Advisor (EA) products paired with an AI-driven trading analytics assistant that computes real-time metrics via Claude AI.
+<br/>
 
-- **[Pandu AI Platform](https://pandu.trexa.id/)**
-  * **Role:** Full Stack & AI Integration Engineer
-  * **Stack:** Laravel Livewire, Tailwind CSS, Claude AI API, MetaTrader REST API
-  * **Overview:** Engineered an AI-driven trading analytics and recommendation system that periodically harvests real-time market metrics from MetaTrader via REST API and processes them using advanced prompt engineering over the Claude AI API.
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=3500&pause=1200&color=C5B69A&center=true&vCenter=true&width=450&lines=Building+with+intention.;Designing+with+curiosity.;Always+exploring%2C+always+becoming." alt="Creative philosophy" />
+
+</div>
+
+<br/>
 
 ---
 
-### 📊 GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rekhadyah&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=007A78&icon_color=007A78&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekhadyah&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=c9d1d9" width="48%" />
-</p>
+<sub>01 / THE PHILOSOPHY</sub>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rekhadyah&theme=radical&hide_border=true&background=0d1117&ring=007A78&fire=007A78&currStreakLabel=007A78" width="100%" />
-</p>
+<br/><br/>
+
+### *Not everything needs to be louder.*
+### *Some things just need to be better.*
+
+<sub>LESS NOISE. MORE INTENTION.</sub>
+
+</div>
+
+<br/>
 
 ---
 
-<p align="center">
-  <code>// "Engineering scalable digital products with clean code and modern architecture."</code>
-</p>
+<div align="center">
+
+<sub>02 / THE WORK</sub>
+
+<br/>
+
+### Selected repositories
+
+*A collection of things I've built, explored, and learned along the way.*
+
+</div>
+
+<br/>
+
+<!-- REPLACE THE REPO NAMES WITH YOUR OWN -->
+
+<div align="center">
+
+<a href="https://github.com/rekhadyah?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rekhadyah&repo=REPO_NAME_1&theme=dark&bg_color=101114&title_color=C5B69A&text_color=C9C9C9&icon_color=C5B69A&border_color=373737" width="48%" />
+</a>
+<a href="https://github.com/rekhadyah?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rekhadyah&repo=REPO_NAME_2&theme=dark&bg_color=101114&title_color=C5B69A&text_color=C9C9C9&icon_color=C5B69A&border_color=373737" width="48%" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/rekhadyah?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-101114?style=for-the-badge&logo=github&logoColor=C5B69A" alt="Explore repositories" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<sub>03 / THE ACTIVITY</sub>
+
+<br/>
+
+### A little bit of my GitHub universe.
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rekhadyah&bg_color=101114&color=C5B69A&line=C5B69A&point=F1EEE8&area=true&area_color=4A4035&hide_border=true&custom_title=Contribution%20Journey" width="100%" alt="GitHub activity graph" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<sub>04 / STAY CONNECTED</sub>
+
+<br/><br/>
+
+<a href="https://rekhadyah.github.io/">Portfolio</a>
+&nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="mailto:rekhadyahmaharani@gmail.com">Email</a>
+&nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="https://github.com/rekhadyah">GitHub</a>
+
+<br/><br/><br/>
+
+<sub>✦ MADE WITH INTENTION ✦</sub>
+
+<br/>
+
+<sub>Always exploring. Always becoming.</sub>
+
+</div>
