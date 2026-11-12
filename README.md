@@ -1,94 +1,159 @@
 
 <div align="center">
 
-  <img src="./assets/readme-cover.png" width="100%" alt="Rekha — Digital Craft" />
+<img src="./assets/readme-cover.png" width="100%" alt="Rekha Dyah — Full-Stack Software Engineer" />
 
-  <h2>Somewhere between code & curiosity.</h2>
+<br/>
 
-  <p><i>Part builder, part thinker, always curious.</i></p>
+### Hi, I'm Rekha 👋
 
-  <p>
-    I explore the space between <b>technology, design, and human experiences</b> —
-    turning ideas into things people can use and enjoy.
-  </p>
+**Full-Stack Software Engineer | Software Architecture | AI Integration**
 
-  <p>
-    Drawn to the little details, unexpected possibilities,<br>
-    and the process of making something from nothing.
-  </p>
+Based in Indonesia 🇮🇩
 
-  <p>✦ &nbsp; BUILD WITH INTENTION &nbsp; ✦</p>
+I build and maintain web applications, backend services, and scalable software systems, with experience across frontend development, REST APIs, database design, and third-party integrations.
+
+My work includes e-commerce platforms, SaaS applications, payment systems, AI-powered solutions, and production infrastructure.
+
+<br/>
+
+[Portfolio](https://rekhadyah.github.io/) ·
+[Email](mailto:rekhadyahmaharani@gmail.com) ·
+[Repositories](https://github.com/rekhadyah?tab=repositories)
 
 </div>
-
-<br>
 
 ---
 
-<div align="center">
-  <sub>01 / SELECTED WORK</sub>
-  <h3>Things I've been creating.</h3>
-  <p><i>Quietly building, constantly exploring.</i></p>
-</div>
+### 👩‍💻 What I Work With
+
+| Area | Technologies & Experience |
+|:--|:--|
+| **Backend Development** | PHP, Laravel, REST API, Livewire |
+| **Frontend Development** | JavaScript, TypeScript, Next.js, Tailwind CSS, Alpine.js |
+| **Database** | MySQL, Relational Database Design |
+| **AI Integration** | Claude AI API, Prompt Engineering, AI-Powered Applications |
+| **Payment & Services** | Midtrans, Firebase, Payment Gateway Integration |
+| **Software Architecture** | SaaS, Multi-Tenancy, System Design, API Integration |
+| **Other Skills** | Technical SEO, UI/UX Design, Server Deployment |
+
+---
+
+### 🚀 Selected Work
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✦ Seiya</h3>
-      <p><b>Personal & Family Finance</b></p>
-      <p>
-        A thoughtful approach to managing money,
-        shared goals, and everyday financial life.
-      </p>
-      <p><code>Digital Product</code> <code>In Development</code></p>
-      <sub>PRIVATE SOURCE</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✧ Creative Experiments</h3>
-      <p><b>Design, Code & Curiosity</b></p>
-      <p>
-        A collection of explorations across interfaces,
-        engineering, and digital experiences.
-      </p>
-      <p><code>Creative Coding</code> <code>Exploration</code></p>
-      <a href="https://github.com/rekhadyah?tab=repositories">Explore GitHub</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>💻 Trexa.id</h3>
+
+<strong>Trading Software & AI Integration</strong>
+
+<p>
+Full-stack platform for Expert Advisor products and custom trading automation services.
+</p>
+
+<ul>
+<li>Laravel & Filament</li>
+<li>Claude AI Assistant</li>
+<li>REST API & MetaTrader integration</li>
+<li>License management</li>
+<li>Production deployment</li>
+</ul>
+
+<a href="https://trexa.id">Visit Website</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🛒 Figure Factories</h3>
+
+<strong>Custom E-Commerce Platform</strong>
+
+<p>
+E-commerce application for ordering custom physical figurines based on Roblox characters.
+</p>
+
+<ul>
+<li>Laravel backend</li>
+<li>Payment gateway integration</li>
+<li>REST API architecture</li>
+<li>Custom order management</li>
+<li>Transaction synchronization</li>
+</ul>
+
+<a href="https://figurefactories.com">Visit Website</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🤖 Pandu AI</h3>
+
+<strong>AI-Powered Trading Analytics</strong>
+
+<p>
+Trading analytics platform integrating MetaTrader data with Claude AI for market research and reporting.
+</p>
+
+<ul>
+<li>Laravel & Livewire</li>
+<li>Claude AI API</li>
+<li>Prompt Engineering</li>
+<li>MetaTrader REST API</li>
+<li>Payment integration</li>
+</ul>
+
+<a href="https://pandu.trexa.id">Visit Website</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>⚙️ Nuvio Studio</h3>
+
+<strong>Multi-Tenant SaaS Experiment</strong>
+
+<p>
+Personal SaaS development project exploring business automation for Indonesian MSMEs.
+</p>
+
+<ul>
+<li>Multi-tenant architecture</li>
+<li>Server automation</li>
+<li>Domain provisioning</li>
+<li>WhatsApp Business integration</li>
+<li>Payment gateway integration</li>
+</ul>
+
+<sub>PERSONAL PROJECT</sub>
+
+</td>
+</tr>
 </table>
 
-<br>
-
----
-
 <div align="center">
-  <sub>02 / A LITTLE PHILOSOPHY</sub>
 
-  <h3>
-    <i>Not everything needs to be louder.</i><br>
-    <i>Some things just need to be better.</i>
-  </h3>
+[Explore My GitHub Repositories](https://github.com/rekhadyah?tab=repositories)
 
-  <sub>LESS NOISE. MORE INTENTION.</sub>
 </div>
 
-<br>
-
 ---
+
+### 📫 Get in Touch
 
 <div align="center">
 
-  <sub>03 / SAY HELLO</sub>
+Open to discussing software engineering, system architecture, application development, and technical collaborations.
 
-  <p>
-    <a href="https://rekhadyah.github.io/">Portfolio</a>
-    &nbsp; / &nbsp;
-    <a href="mailto:rekhadyahmaharani@gmail.com">Email</a>
-    &nbsp; / &nbsp;
-    <a href="https://github.com/rekhadyah">GitHub</a>
-  </p>
+<br/>
 
-  <p>✦</p>
-  <sub>MADE WITH INTENTION.</sub>
-  <p><sub>Always exploring. Always becoming.</sub></p>
+**[Portfolio](https://rekhadyah.github.io/)** &nbsp; · &nbsp;
+**[Email](mailto:rekhadyahmaharani@gmail.com)** &nbsp; · &nbsp;
+**[GitHub](https://github.com/rekhadyah)**
+
+<br/>
+
+<sub>REKHA DYAH · FULL-STACK SOFTWARE ENGINEER</sub>
 
 </div>
